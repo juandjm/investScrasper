@@ -1,0 +1,2 @@
+# investScrasper
+Scraper of Finviz
